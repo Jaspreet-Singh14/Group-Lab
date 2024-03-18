@@ -1,0 +1,7 @@
+Project Scope: The Game of Rock, Paper, Scissors
+
+The goal of this project is to develop a basic version of the well-known game "Rock, Paper, Scissors". In this game, two players choose amongst the three possibilities (rock, paper, or scissors) at the same time. The following rules govern how the game will end:
+Rock wins over scissors.
+scissors beat paper.
+Paper is stronger to rock.
+Two players can enter their selections, compare them, and use the predetermined rules to decide who wins using this Python implementation.
